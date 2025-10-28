@@ -8,10 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently learning about **AI**, **machine learning**, and **low-level programming**  
-- 💡 Interested in **game dev**, **software design**, and **clean code**  
+- 🔭 I’m currently learning about **AI**, **machine learning**
+- 💡 Interested in **game dev**, **software design** 
 - 💬 Always open to learning and sharing new ideas  
-- 🧩 Fun fact: I started coding because I wanted to make my own games!
 
 ---
 
@@ -24,9 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcotommz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcotommz&layout=compact&theme=tokyonight)
 
 ---
 
