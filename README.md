@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Marco
+
 
 🎓 **Final-year Computer Science student** passionate about software and game development.  
 ☕ **Java** is my main language, but I also work with **JavaScript**, **Python**, and **C++**.  
@@ -32,5 +32,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)
 
 ---
-
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
